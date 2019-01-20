@@ -1,0 +1,4 @@
+Hi {{user.first_name}} {{user.last_name}}.
+A new reminder has been created on {{account_name}} by {{created_by_name}}
+{{reminder.title}}
+DO NOT REPLY TO THIS MESSAGE
