@@ -10,7 +10,7 @@ django-cors-headers==2.4.0
 django-rest-knox==3.4.0
 django-sendgrid-v5==0.7.0
 django-webpack-loader==0.6.0
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 future==0.17.1
 gunicorn==19.9.0
 idna==2.8
